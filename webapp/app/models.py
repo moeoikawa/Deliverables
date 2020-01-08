@@ -11,9 +11,9 @@ class Memo(models.Model):
 
 
 """
-アプリケーションを追加する場合は、setting.pyに以下のように追記する
+新しくアプリケーションを追加する場合は、setting.pyに追記する
 
-C:\Users\moeoi\Desktop\webapp\webapp\setting.py
+C:/User/moeoi/Desktop/webapp/webapp/setting.py
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -22,8 +22,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'app',      ←ここに追加
+    'app',      ←ここに追記
 ]
-
 
 """

@@ -16,7 +16,7 @@ SECRET_KEY = 'q+es%09ved0iarsbu=%ydcc7nn-d*1o5-uqv7%=7uqzd)km3oq'
 # https://noumenon-th.net/programming/2019/12/14/404html/
 
 # True/False
-DEBUG = False
+DEBUG = True
 
 # 設定について
 # https://blog.ymyzk.com/2013/07/django-allowed_hosts/
